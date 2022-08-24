@@ -17,7 +17,7 @@ A completely Responsive Instagram App- Works on Android, iOS & Web!
 
 
 <p align="center">
-  <img src ="https://www.google.com/imgres?imgurl=https%3A%2F%2Fassets.materialup.com%2Fuploads%2F5e43d35c-2ad3-4567-bcec-35d01a9cb6d2%2Fpreview.jpg&imgrefurl=https%3A%2F%2Fwww.uplabs.com%2Fposts%2Finstagram-ui-kit-12a8c5de-3f5c-48d5-8f88-34f410f312ea&tbnid=0nVTh2BpZ-GHeM&vet=12ahUKEwiqn_SPqOD5AhUrjNgFHQN4DJgQMygIegUIARDtAQ..i&docid=QpGqykWioW8NlM&w=1200&h=900&q=instagram%20ui%20images&ved=2ahUKEwiqn_SPqOD5AhUrjNgFHQN4DJgQMygIegUIARDtAQ">
+  <img src ="https://www.google.com/imgres?imgurl=https%3A%2F%2Frepository-images.githubusercontent.com%2F462486094%2F1bd8b496-e014-47e5-8166-92833e458731&imgrefurl=https%3A%2F%2Fgithub.com%2Ftopics%2Finstagram-ui&tbnid=xNRDuSCE8PhWEM&vet=12ahUKEwiqn_SPqOD5AhUrjNgFHQN4DJgQMygvegUIARDDAg..i&docid=CSdbrbwHapuFFM&w=1280&h=640&q=instagram%20ui%20images&ved=2ahUKEwiqn_SPqOD5AhUrjNgFHQN4DJgQMygvegUIARDDAg" alt = "SERVER ERROR">
 </p>
 
 
