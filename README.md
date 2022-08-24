@@ -14,13 +14,28 @@ A completely Responsive Instagram App- Works on Android, iOS & Web!
 - EVERYTHING REAL TIME
 - Sign Out
 
-
+## YouTube
+I have created a tutorial based on this, do check it out on my channel [Rivaan Ranawat](https://youtu.be/BBccK1zTgxw) 
 
 <p align="center">
-  <img src ="https://www.google.com/imgres?imgurl=https%3A%2F%2Frepository-images.githubusercontent.com%2F462486094%2F1bd8b496-e014-47e5-8166-92833e458731&imgrefurl=https%3A%2F%2Fgithub.com%2Ftopics%2Finstagram-ui&tbnid=xNRDuSCE8PhWEM&vet=12ahUKEwiqn_SPqOD5AhUrjNgFHQN4DJgQMygvegUIARDDAg..i&docid=CSdbrbwHapuFFM&w=1280&h=640&q=instagram%20ui%20images&ved=2ahUKEwiqn_SPqOD5AhUrjNgFHQN4DJgQMygvegUIARDDAg" alt = "SERVER ERROR">
+  <img width="600" src="https://github.com/RivaanRanawat/instagram-flutter-clone/blob/master/screenshot.png" alt="Youtube Tutorial Image">
 </p>
 
 
+## Installation
+After cloning this repository, migrate to ```instagram-flutter-clone``` folder. Then, follow the following steps:
+- Create Firebase Project
+- Enable Authentication
+- Make Firestore Rules
+- Create Android, iOS & Web Apps
+- Take Web FirebaseOptions and put it in main function in main.dart file replacing my keys (My keys wont work as I deleted my project)
+Then run the following commands to run your app:
+```bash
+  flutter pub get
+  open -a simulator (to get iOS Simulator)
+  flutter run
+  flutter run -d chrome --web-renderer html (to see the best output)
+```
 
 ## Tech Used
 **Server**: Firebase Auth, Firebase Storage, Firebase Firestore
@@ -28,11 +43,8 @@ A completely Responsive Instagram App- Works on Android, iOS & Web!
 **Client**: Flutter, Provider
     
 ## Feedback
-E-mail me 
-at 
-shikharsharma968@gmail.com
-or tweet me
 
+If you have any feedback, please reach out to me at namanrivaan@gmail.com
 
 # instagram-flutter-clone-master
 # instagram-flutter-clone-master
